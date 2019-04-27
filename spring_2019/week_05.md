@@ -4,7 +4,7 @@
 > it is much more involved. I have finished a draft of the code that includes the components that I think are\
 > relevant at this time. This week, I finally ran the build and tested it from the terminal using the main\
 > designer. It did not work because the new site did not yet have any way to determine if a wire had been selected.\
-> So that function had to be written.
+> So I wrote the function BezierContains in MathUtils to see if the user has clicked on a wire.\
 
 ## This Week's Plan
 
@@ -17,7 +17,7 @@
 > I keep getting tripped up by a lack of general knowledge of the existing code base. At one point, I was manually\
 > creating and intiializing wires, not knowing that a nice CreateWire() function had alreday been provided in the\
 > Circuit Designer. To mitigate this problem, I've read the circuit designer, and have been paying more attention\
-> to my other team members' assignemnts, so that I can learn from them too.\
+> to my other team members' assignments, so that I can learn from them too.\
 
 ## Notes
 

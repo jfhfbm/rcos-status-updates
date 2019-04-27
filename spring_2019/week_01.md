@@ -15,7 +15,7 @@
 
 > My primary blockade has consistently been acclimating to a reservoir of code that is already written.\
 > Since much of the architecture is pre-established, I have to do detective work whenever I code \
-> So that my code uses and is compatible with the existing system. At this point, I am still relying \
+> so that my code uses and is compatible with the existing system. At this point, I am still relying \
 > heavily on my team leader to explain many parts of the code. From here, I'll strive to become more independent.\
 
 ## Notes

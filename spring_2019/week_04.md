@@ -7,7 +7,7 @@
 
 ## This Week's Plan
 
-> This week, I will continue to work on this same class, as it's a bigger project than most fo my other projects.\
+> This week, I will continue to work on this same class, as it's a bigger project than most of my other projects.\
 
 ## Anything Blocking?
 

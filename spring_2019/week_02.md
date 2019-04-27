@@ -13,8 +13,8 @@
 ## Anything Blocking?
 
 > Even though the code is still foreign to me, I am becoming more and more used to it. Another blockade I\
-> experienced is being unfamiliar with teh workings of Git. When I pushed The Seven Segment Display class\
-> there was a merge conflict, and I had to resolve it. That bloacked work for a but, but then I just googled it and\
+> experienced is being unfamiliar with the workings of Git. When I pushed The Seven Segment Display class\
+> there was a merge conflict, and I had to resolve it. That blocked work for a but, but then I just googled it and\
 > fixed it.
 
 ## Notes

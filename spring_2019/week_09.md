@@ -5,7 +5,8 @@
 > selected components, and it is rendered with the selection shadow too. The hard part about this was that \
 > wire ports are not IOobjects, so they couldn't be selected the same way that all other components get \
 > selected. All new methods had to be written to handle the selection of ports. Also, the port selection is not \
-> always valid (for example, when a non-port component is already selected, we don't want to select any ports).\
+> always valid (for example, when a non-port component is already selected, we don't want to select any ports). 
+> There were several similar edge cases I had to consider in implementation. \
 
 ## This Week's Plan
 
@@ -17,7 +18,7 @@
 
 > I have no idea how to implement copy and paste. I took on the issue hoping it would be a learning \
 > experience, but I don't really know how the user's clipboard will interact with the code, and the user's \
-> circuits.
+> circuits.\
 
 ## Notes
 

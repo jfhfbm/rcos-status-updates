@@ -9,14 +9,14 @@
 ## This Week's Plan
 
 > This week, I will attempt to implement a draft of the code that is at least complete enough to test and debug.\
-> I don't expect to finish this week, but I will have working or buggy code at least. 
+> I don't expect to finish this week, but I will have working or buggy code at least. \
 
 ## Anything Blocking?
 
 > One of my primary blocks is that I will write some portion of code, then talk to my project manager, and realize\
 > that I did it wrong because I didn't understadn the framework correctly, or didn't have enough information.\
-> In order to rememdy this, there is no option but to keeo chugging along and slowly familiarizing myself\
-> with differetn corcners and crannies of the codebase, and continuing to ask as many questions as I can.
+> In order to remedy this, there is no option but to keep chugging along and slowly familiarizing myself\
+> with different corners and crannies of the codebase, and continuing to ask as many questions as I can.\
 
 ## Notes
 
